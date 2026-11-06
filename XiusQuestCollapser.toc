@@ -1,0 +1,12 @@
+## Interface: 16001, 120107, 120105, 120100, 120001, 20505, 20506
+## Title: |cffffd100Xius Quest Collapser|r
+## Notes: Puts an arrow at the top of the line between the world map and the quest log. Click it to collapse or expand the list. Works with the default map and with OpenMap.
+## Author: Xius
+## Version: 1.0.0
+## Category: Map
+## OptionalDeps: OpenMap
+## X-Website: https://github.com/XiusTV/xiusquestcollapser
+## X-License: GPL-2.0
+## AllowLoadGameType: standard, forever, camelot
+
+XiusQuestCollapser.lua
