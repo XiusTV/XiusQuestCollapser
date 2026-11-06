@@ -2,11 +2,6 @@
 
 An arrow on the line between the world map and the quest log for **modern World of Warcraft** and **World of Warcraft Forever**. Click it to fold the list away so the map can use that space, then click it again to open the list. It works on the default map and with OpenMap, in a window and on the full-screen map. A dark plate and a thin gold edge keep it with the rest of the Xius set.
 
-**Folder name:** `XiusQuestCollapser`  
-**Interfaces:** `120001`–`120107` (modern) · `16001` (Forever) · `20505`–`20506`  
-**Commands:** `/qlc` · `/xqc`  
-**Version:** `1.0.0`
-
 ## Features
 
 ### The arrow
